@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yuanwangu@126.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: X
+- ⚡ Fun fact: 🎮
 
 <!---
 YW-o/YW-o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
